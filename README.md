@@ -1,6 +1,6 @@
 # 個人化 AI 手寫辨識系統 (CNN + Gradio)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lucas66666677/Hand-wrting-recognization-System-CN-/blob/main/AI%E6%89%8B%E5%AF%AB%E8%BE%A8%E8%AD%98%E7%B3%BB%E7%B5%B1%E5%96%AE%E5%80%8B%E6%95%B8%E5%AD%97CNN.ipynb)
-這是一個基於 TensorFlow/Keras 構建的卷積神經網路（CNN）模型，專門用於辨識 0-9 的手寫數字。訓練完成後，透過 **Gradio** 部署成互動式的網頁應用程式，讓使用者可以直接在畫布上書寫並即時獲得 AI 的預測結果。
+* 這是一個基於 TensorFlow/Keras 構建的卷積神經網路（CNN）模型，專門用於辨識 0-9 的手寫數字。訓練完成後，透過 **Gradio** 部署成互動式的網頁應用程式，讓使用者可以直接在畫布上書寫並即時獲得 AI 的預測結果。
 ## 主要特色與實作細節
 
 除了基本的模型訓練外，這個專案特別針對「真實手寫輸入」做了影像預處理，以解決網頁畫布與 MNIST 訓練集格式不一致的問題：
