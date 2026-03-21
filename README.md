@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lucas66666677/Hand-wrting-recognization-System-CN-/blob/main/AI%E6%89%8B%E5%AF%AB%E8%BE%A8%E8%AD%98%E7%B3%BB%E7%B5%B1%E5%96%AE%E5%80%8B%E6%95%B8%E5%AD%97CNN.ipynb)
